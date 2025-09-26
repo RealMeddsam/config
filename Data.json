@@ -2,6 +2,7 @@
   "alertEnabled": false,
   "alertContent": "test",
   "alertSeverity": 0,
+  "allowedFastFlags": "d61e12d63d5061c480790da08cac6d86f57da7e44b643a60b4319daecc93aecd6a421c3978db776de8de03991aef560b824d1e0ce2a5029e22857f3d89999900",
   "packageMaps": {
     "common": {
       "Libraries.zip": "",
