@@ -1,7 +1,7 @@
 {
-  "alertEnabled": true,
+  "alertEnabled": false,
   "alertContent": "test",
-  "alertSeverity": 1,
+  "alertSeverity": 0,
   "packageMaps": {
     "common": {
       "Libraries.zip": "",
