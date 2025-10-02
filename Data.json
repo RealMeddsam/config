@@ -16,7 +16,7 @@
       "Type": "Int",
       "SettingName": "FramerateCap"
     }
-  }
+  },
   "packageMaps": {
     "common": {
       "Libraries.zip": "",
