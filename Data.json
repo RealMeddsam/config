@@ -58,7 +58,7 @@
       "Type": "Vector2",
       "SettingName": "MouseSensitivityThirdPerson"
     }
-  }
+  },
   "packageMaps": {
     "common": {
       "Libraries.zip": "",
