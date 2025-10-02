@@ -44,7 +44,7 @@
       "Header": "Camera Sensitivity",
       "Description": "Set the camera sensitivity amount.",
       "Type": "Float",
-      "SettingName": "GamepadCameraSensitivity,MouseSensitivity"
+      "SettingName": "GamepadCameraSensitivity"
     },
     "MouseSensitivityFirstPerson": {
       "Header": "First Person Mouse Sensitivity",
