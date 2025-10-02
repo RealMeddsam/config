@@ -36,7 +36,7 @@
     },
     "ChatVisible": {
       "Header": "Chat Visibility",
-      "Description": "{x:Static resources:Strings.Menu_Integrations_EnableActivityTracking_Title}",
+      "Description": "Toggle whether the chat should be open or closed when first opening a game.",
       "Type": "Boolean",
       "SettingName": "ChatVisible"
     },
@@ -44,9 +44,21 @@
       "Header": "Camera Sensitivity",
       "Description": "Set the camera sensitivity amount.",
       "Type": "Float",
-      "SettingName": "CameraSensitivity"
+      "SettingName": "GamepadCameraSensitivity,MouseSensitivity"
+    },
+    "MouseSensitivityFirstPerson": {
+      "Header": "First Person Mouse Sensitivity",
+      "Description": "Adjusts the X/Y sensitivity when in first person mode.",
+      "Type": "Vector2",
+      "SettingName": "MouseSensitivityFirstPerson"
+    },
+    "MouseSensitivityThirdPerson": {
+      "Header": "Third Person Mouse Sensitivity",
+      "Description": "Adjusts the X/Y sensitivity when in third person mode.",
+      "Type": "Vector2",
+      "SettingName": "MouseSensitivityThirdPerson"
     }
-  },
+  }
   "packageMaps": {
     "common": {
       "Libraries.zip": "",
