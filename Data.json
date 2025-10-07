@@ -85,7 +85,7 @@
       "SettingName": "MouseSensitivityThirdPerson"
     },
     "VignetteEnabled": {
-      "Header": "Vignette",
+      "Header": "Disable Vignette",
       "Description": "Disables Roblox vignette. (didnt know roblox had vignette)",
       "Type": "Boolean",
       "SettingName": "VignetteEnabled,VignetteEnabledCustomOption"
