@@ -24,7 +24,7 @@
     },
     "GraphicsQualityLevel": {
       "Header": "Graphics Quality Level",
-      "Description": "Set Roblox graphics quality. (0-21)",
+      "Description": "Set Roblox graphics quality. (21-0)",
       "Type": "Int",
       "SettingName": "GraphicsQualityLevel"
     },
@@ -48,7 +48,7 @@
     },
     "PreferredTransparency": {
       "Header": "Preferred UI Transparency",
-      "Description": "Adjust the transparency of Roblox UI with 1 being transparent and 0 being opaque. (1-0, you can set it more than 1 apparently)",
+      "Description": "Adjust the transparency of Roblox UI with 1 being semi-transparent and 0 being opaque. (you can set it more than 1)",
       "Type": "Float",
       "SettingName": "PreferredTransparency"
     },
@@ -92,7 +92,7 @@
     },
     "MaxQualityEnabled": {
       "Header": "Max Quality",
-      "Description": "Not sure what this does exactly.",
+      "Description": "This forces MSAA to 4 or 6 according to some people.",
       "Type": "Boolean",
       "SettingName": "MaxQualityEnabled"
     },
