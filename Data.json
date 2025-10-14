@@ -277,20 +277,20 @@
           "description": "Adjusts the X/Y sensitivity when in first person mode.",
           "value": "",
           "gbsConfig": {
-            "xmlPath": "{UserSettings}/string[@name='MouseSensitivityFirstPerson']",
-            "dataType": "string"
+            "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityFirstPerson']",
+            "dataType": "vector2"
           }
         },
         {
-          "type": "Vector2",
+          "type": "Vector2", 
           "title": "Third Person Mouse Sensitivity",
           "description": "Adjusts the X/Y sensitivity when in third person mode.",
           "value": "",
           "gbsConfig": {
-            "xmlPath": "{UserSettings}/string[@name='MouseSensitivityThirdPerson']",
-            "dataType": "string"
+            "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityThirdPerson']",
+            "dataType": "vector2"
           }
-        },
+        }
         {
           "type": "Slider",
           "title": "Haptic Strength",
