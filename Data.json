@@ -157,11 +157,97 @@
           {
             "type": "Slider",
             "title": "Graphics Quality",
-            "description": "Set the overall graphics quality level",
-            "value": "5",
+            "description": "Set the overall graphics quality level (0 is automatic)",
+            "value": "",
             "minValue": 0,
             "maxValue": 10,
-            "step": 1
+            "step": 1,
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/token[@name='SavedQualityLevel']",
+              "dataType": "token"
+            }
+          },
+          {
+            "type": "TextBox",
+            "title": "FPS Limit",
+            "description": "Maximum frames per second (-1 = default)",
+            "value": "",
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/int[@name='FramerateCap']",
+              "dataType": "int"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Accessibility",
+        "controls": [
+          {
+            "type": "Slider",
+            "title": "UI Transparency",
+            "description": "Adjust how transparent the interface appears",
+            "value": "",
+            "minValue": 0,
+            "maxValue": 1,
+            "step": 0.1,
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/float[@name='PreferredTransparency']",
+              "dataType": "float"
+            }
+          },
+          {
+            "type": "ToggleSwitch",
+            "title": "Reduced Motion",
+            "description": "Reduce animations and visual effects",
+            "value": "",
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/bool[@name='ReducedMotion']",
+              "dataType": "bool"
+            }
+          },
+          {
+            "type": "ComboBox",
+            "title": "Text Size",
+            "description": "Choose your preferred text size",
+            "value": "",
+            "options": [
+              { "value": "1", "displayName": "Small" },
+              { "value": "2", "displayName": "Medium" },
+              { "value": "3", "displayName": "Large" },
+              { "value": "4", "displayName": "Extra Large" }
+            ],
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/token[@name='PreferredTextSize']",
+              "dataType": "token"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Input Settings",
+        "controls": [
+          {
+            "type": "Slider",
+            "title": "Mouse Sensitivity",
+            "description": "Adjust how fast your camera moves",
+            "value": "",
+            "minValue": 0.1,
+            "maxValue": 5.0,
+            "step": 0.1,
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/float[@name='MouseSensitivity']",
+              "dataType": "float"
+            }
+          },
+          {
+            "type": "ToggleSwitch",
+            "title": "VR Mode",
+            "description": "Enable virtual reality support",
+            "value": "",
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/bool[@name='VREnabled']",
+              "dataType": "bool"
+            }
           }
         ]
       }
