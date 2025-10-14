@@ -149,4 +149,94 @@
       "RibbonConfig.zip": "RibbonConfig\\"
     }
   }
+  "settingsPage": {
+    "sections": [
+      {
+        "title": "Graphics Settings",
+        "controls": [
+          {
+            "type": "Slider",
+            "id": "graphics_quality",
+            "title": "Graphics Quality",
+            "description": "Set the overall graphics quality level",
+            "value": "5",
+            "defaultValue": "5",
+            "minValue": 1,
+            "maxValue": 10,
+            "step": 1
+          },
+          {
+            "type": "TextBox",
+            "id": "framerate_cap",
+            "title": "FPS Limit",
+            "description": "Maximum frames per second (0 for unlimited)",
+            "value": "60",
+            "defaultValue": "60"
+          }
+        ]
+      },
+      {
+        "title": "Accessibility",
+        "controls": [
+          {
+            "type": "Slider",
+            "id": "ui_transparency",
+            "title": "UI Transparency",
+            "description": "Adjust how transparent the interface appears",
+            "value": "0.5",
+            "defaultValue": "0.5",
+            "minValue": 0,
+            "maxValue": 1,
+            "step": 0.1
+          },
+          {
+            "type": "ToggleSwitch",
+            "id": "reduced_motion",
+            "title": "Reduced Motion",
+            "description": "Reduce animations and visual effects",
+            "value": "false",
+            "defaultValue": "false"
+          },
+          {
+            "type": "ComboBox",
+            "id": "font_size",
+            "title": "Text Size",
+            "description": "Choose your preferred text size",
+            "value": "2",
+            "defaultValue": "2",
+            "options": [
+              { "value": "1", "displayName": "Small" },
+              { "value": "2", "displayName": "Medium" },
+              { "value": "3", "displayName": "Large" },
+              { "value": "4", "displayName": "Extra Large" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Input Settings",
+        "controls": [
+          {
+            "type": "Slider",
+            "id": "mouse_sensitivity",
+            "title": "Mouse Sensitivity",
+            "description": "Adjust how fast your camera moves",
+            "value": "0.5",
+            "defaultValue": "0.5",
+            "minValue": 0.1,
+            "maxValue": 5.0,
+            "step": 0.1
+          },
+          {
+            "type": "ToggleSwitch",
+            "id": "vr_enabled",
+            "title": "VR Mode",
+            "description": "Enable virtual reality support",
+            "value": "false",
+            "defaultValue": "false"
+          }
+        ]
+      }
+    ]
+  }
 }
