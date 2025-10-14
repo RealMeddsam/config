@@ -170,7 +170,7 @@
           {
             "type": "TextBox",
             "title": "FPS Cap",
-            "description": "Set a new fps cap. (-1 = default)",
+            "description": "Set a new fps cap. (-1 = 60 fps cap)",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/int[@name='FramerateCap']",
@@ -198,15 +198,10 @@
             }
           },
           {
-            "type": "ComboBox",
+            "type": "TextBox",
             "title": "Graphics Optimization Mode",
             "description": "Optimization mode for graphics.",
             "value": "",
-            "options": [
-              { "value": "0", "displayName": "Performance" },
-              { "value": "1", "displayName": "Balanced" },
-              { "value": "2", "displayName": "Quality" }
-            ],
             "gbsConfig": {
               "xmlPath": "{UserSettings}/token[@name='GraphicsOptimizationMode']",
               "dataType": "token"
