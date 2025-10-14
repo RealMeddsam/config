@@ -256,56 +256,57 @@
       ]
     },
     {
-      "title": "Input Settings",
-      "controls": [
-        {
-          "type": "Slider",
-          "title": "Camera Sensitivity",
-          "description": "Set the camera sensitivity amount.",
-          "value": "",
-          "minValue": 0.1,
-          "maxValue": 5.0,
-          "step": 0.1,
-          "gbsConfig": {
-            "xmlPath": "{UserSettings}/float[@name='GamepadCameraSensitivity']",
-            "dataType": "float"
-          }
-        },
-        {
-          "type": "Vector2",
-          "title": "First Person Mouse Sensitivity",
-          "description": "Adjusts the X/Y sensitivity when in first person mode.",
-          "value": "",
-          "gbsConfig": {
-            "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityFirstPerson']",
-            "dataType": "vector2"
-          }
-        },
-        {
-          "type": "Vector2", 
-          "title": "Third Person Mouse Sensitivity",
-          "description": "Adjusts the X/Y sensitivity when in third person mode.",
-          "value": "",
-          "gbsConfig": {
-            "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityThirdPerson']",
-            "dataType": "vector2"
-          }
-        }
-        {
-          "type": "Slider",
-          "title": "Haptic Strength",
-          "description": "Controls the strength of haptic mode.",
-          "value": "",
-          "minValue": 0.0,
-          "maxValue": 1.0,
-          "step": 0.1,
-          "gbsConfig": {
-            "xmlPath": "{UserSettings}/float[@name='HapticStrength']",
-            "dataType": "float"
-          }
-        }
-      ]
+{
+  "title": "Input Settings",
+  "controls": [
+    {
+      "type": "Slider",
+      "title": "Camera Sensitivity",
+      "description": "Set the camera sensitivity amount.",
+      "value": "",
+      "minValue": 0.1,
+      "maxValue": 5.0,
+      "step": 0.1,
+      "gbsConfig": {
+        "xmlPath": "{UserSettings}/float[@name='GamepadCameraSensitivity']",
+        "dataType": "float"
+      }
     },
+    {
+      "type": "Vector2",
+      "title": "First Person Mouse Sensitivity",
+      "description": "Adjusts the X/Y sensitivity when in first person mode.",
+      "value": "",
+      "gbsConfig": {
+        "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityFirstPerson']",
+        "dataType": "vector2"
+      }
+    },
+    {
+      "type": "Vector2", 
+      "title": "Third Person Mouse Sensitivity",
+      "description": "Adjusts the X/Y sensitivity when in third person mode.",
+      "value": "",
+      "gbsConfig": {
+        "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityThirdPerson']",
+        "dataType": "vector2"
+      }
+    },
+    {
+      "type": "Slider",
+      "title": "Haptic Strength",
+      "description": "Controls the strength of haptic mode.",
+      "value": "",
+      "minValue": 0.0,
+      "maxValue": 1.0,
+      "step": 0.1,
+      "gbsConfig": {
+        "xmlPath": "{UserSettings}/float[@name='HapticStrength']",
+        "dataType": "float"
+      }
+    }
+  ]
+}
     {
       "title": "Accessibility",
       "controls": [
