@@ -222,7 +222,7 @@
           }
           {
             "type": "ToggleSwitch",
-            "title": "VSync Enabled",
+            "title": "Enable VSync",
             "description": "Enable or disable VSync.",
             "value": "",
             "gbsConfig": {
