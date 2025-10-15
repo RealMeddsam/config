@@ -150,211 +150,356 @@
     }
   },
   "settingsPage": {
-    "sections": [
+      "sections": [
+  {
+    "title": "Graphics Settings",
+    "controls": [
       {
-        "title": "Graphics Settings",
-        "controls": [
-          {
-            "type": "Slider",
-            "title": "Graphics Quality Level",
-            "description": "Set Roblox graphics quality. (21-0)",
-            "value": "",
-            "minValue": 0,
-            "maxValue": 21,
-            "step": 1,
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/int[@name='GraphicsQualityLevel']",
-              "dataType": "int"
-            }
-          },
-          {
-            "type": "TextBox",
-            "title": "FPS Cap",
-            "description": "Set a new fps cap. (-1 = 60 fps cap)",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/int[@name='FramerateCap']",
-              "dataType": "int"
-            }
-          },
-          {
-            "type": "ToggleSwitch",
-            "title": "Fullscreen",
-            "description": "Start Roblox in fullscreen mode.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/bool[@name='Fullscreen']",
-              "dataType": "bool"
-            }
-          },
-          {
-            "type": "ToggleSwitch",
-            "title": "Max Quality",
-            "description": "This forces MSAA to 4 or 6 according to some people.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/bool[@name='MaxQualityEnabled']",
-              "dataType": "bool"
-            }
-          },
-          {
-            "type": "TextBox",
-            "title": "Graphics Optimization Mode",
-            "description": "Optimization mode for graphics.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/token[@name='GraphicsOptimizationMode']",
-              "dataType": "token"
-            }
-          },
-          {
-            "type": "ToggleSwitch",
-            "title": "Vignette",
-            "description": "Use Roblox Vignette.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/bool[@name='VignetteEnabled']",
-              "dataType": "bool"
-            }
-          }
-        ]
+        "type": "Slider",
+        "title": "Graphics Quality Level",
+        "description": "Set Roblox graphics quality. (21-0)",
+        "value": "",
+        "minValue": 0,
+        "maxValue": 21,
+        "step": 1,
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/int[@name='GraphicsQualityLevel']",
+          "dataType": "int"
+        }
       },
       {
-        "title": "Audio Settings",
-        "controls": [
-          {
-            "type": "Slider",
-            "title": "Master Volume",
-            "description": "Adjust the global volume. (1.0–0.0)",
-            "value": "",
-            "minValue": 0.0,
-            "maxValue": 1.0,
-            "step": 0.1,
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/float[@name='MasterVolume']",
-              "dataType": "float"
-            }
-          },
-          {
-            "type": "Slider",
-            "title": "Party Voice Volume",
-            "description": "Adjust the party mode volume. (1.0-0.0)",
-            "value": "",
-            "minValue": 0.0,
-            "maxValue": 1.0,
-            "step": 0.1,
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/float[@name='PartyVoiceVolume']",
-              "dataType": "float"
-            }
-          }
-        ]
+        "type": "TextBox",
+        "title": "FPS Cap",
+        "description": "Set a new fps cap. (-1 = 60 fps cap)",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/int[@name='FramerateCap']",
+          "dataType": "int"
+        }
       },
       {
-        "title": "Input Settings",
-        "controls": [
-          {
-            "type": "Slider",
-            "title": "Camera Sensitivity",
-            "description": "Set the camera sensitivity amount.",
-            "value": "",
-            "minValue": 0.1,
-            "maxValue": 5.0,
-            "step": 0.1,
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/float[@name='GamepadCameraSensitivity']",
-              "dataType": "float"
-            }
-          },
-          {
-            "type": "Vector2",
-            "title": "First Person Mouse Sensitivity",
-            "description": "Adjusts the X/Y sensitivity when in first person mode.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityFirstPerson']",
-              "dataType": "vector2"
-            }
-          },
-          {
-            "type": "Vector2",
-            "title": "Third Person Mouse Sensitivity",
-            "description": "Adjusts the X/Y sensitivity when in third person mode.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityThirdPerson']",
-              "dataType": "vector2"
-            }
-          },
-          {
-            "type": "Slider",
-            "title": "Haptic Strength",
-            "description": "Controls the strength of haptic mode.",
-            "value": "",
-            "minValue": 0.0,
-            "maxValue": 1.0,
-            "step": 0.1,
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/float[@name='HapticStrength']",
-              "dataType": "float"
-            }
-          }
-        ]
+        "type": "ToggleSwitch",
+        "title": "Fullscreen",
+        "description": "Start Roblox in fullscreen mode.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='Fullscreen']",
+          "dataType": "bool"
+        }
       },
       {
-        "title": "Accessibility",
-        "controls": [
-          {
-            "type": "Slider",
-            "title": "UI Transparency",
-            "description": "Adjust the transparency of Roblox UI with 1 being semi-transparent and 0 being opaque.",
-            "value": "",
-            "minValue": 0.0,
-            "maxValue": 1.0,
-            "step": 0.1,
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/float[@name='PreferredTransparency']",
-              "dataType": "float"
-            }
-          },
-          {
-            "type": "ToggleSwitch",
-            "title": "Reduced Motion",
-            "description": "Reduces the amount of animation Roblox uses.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/bool[@name='ReducedMotion']",
-              "dataType": "bool"
-            }
+        "type": "ToggleSwitch",
+        "title": "Max Quality",
+        "description": "This forces MSAA to 4 or 6 according to some people.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='MaxQualityEnabled']",
+          "dataType": "bool"
+        }
+      },
+      {
+        "type": "TextBox",
+        "title": "Graphics Optimization Mode",
+        "description": "Optimization mode for graphics.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/token[@name='GraphicsOptimizationMode']",
+          "dataType": "token"
+        }
+      },
+      {
+        "type": "ToggleSwitch",
+        "title": "Vignette",
+        "description": "Use Roblox Vignette.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='VignetteEnabled']",
+          "dataType": "bool"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Audio Settings",
+    "controls": [
+      {
+        "type": "Slider",
+        "title": "Master Volume",
+        "description": "Adjust the global volume. (1.0–0.0)",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 1.0,
+        "step": 0.1,
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/float[@name='MasterVolume']",
+          "dataType": "float"
+        }
+      },
+      {
+        "type": "Slider",
+        "title": "Party Voice Volume",
+        "description": "Adjust the party mode volume. (1.0-0.0)",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 1.0,
+        "step": 0.1,
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/float[@name='PartyVoiceVolume']",
+          "dataType": "float"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Input Settings",
+    "controls": [
+      {
+        "type": "TextBox",
+        "title": "Camera Sensitivity",
+        "description": "Set the camera sensitivity amount.",
+        "value": "",
+        "minValue": 0.1,
+        "maxValue": 5.0,
+        "step": 0.1,
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/float[@name='GamepadCameraSensitivity']",
+          "dataType": "float"
+        }
+      },
+      {
+        "type": "Vector2",
+        "title": "First Person Mouse Sensitivity",
+        "description": "Adjusts the X/Y sensitivity when in first person mode.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityFirstPerson']",
+          "dataType": "vector2"
+        }
+      },
+      {
+        "type": "Vector2",
+        "title": "Third Person Mouse Sensitivity",
+        "description": "Adjusts the X/Y sensitivity when in third person mode.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityThirdPerson']",
+          "dataType": "vector2"
+        }
+      },
+      {
+        "type": "Slider",
+        "title": "Haptic Strength",
+        "description": "Controls the strength of haptic mode.",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 1.0,
+        "step": 0.1,
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/float[@name='HapticStrength']",
+          "dataType": "float"
+        }
+      },
+      {
+        "type": "ToggleSwitch",
+        "title": "Invert Camera Y",
+        "description": "Invert the Y axis for camera control.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='CameraYInverted']",
+          "dataType": "bool"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Accessibility",
+    "controls": [
+      {
+        "type": "Slider",
+        "title": "UI Transparency",
+        "description": "Adjust the transparency of Roblox UI with 1 being semi-transparent and 0 being opaque.",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 1.0,
+        "step": 0.1,
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/float[@name='PreferredTransparency']",
+          "dataType": "float"
+        }
+      },
+      {
+        "type": "ToggleSwitch",
+        "title": "Reduced Motion",
+        "description": "Reduces the amount of animation Roblox uses.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='ReducedMotion']",
+          "dataType": "bool"
+        }
+      },
+      {
+        "type": "ComboBox",
+        "title": "Preferred Text Size",
+        "description": "Adjust the size of the text. (4-1)",
+        "value": "",
+        "options": [
+          { "value": "1", "displayName": "Small" },
+          { "value": "2", "displayName": "Medium" },
+          { "value": "3", "displayName": "Large" },
+          { "value": "4", "displayName": "Extra Large" }
+        ],
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/token[@name='PreferredTextSize']",
+          "dataType": "token"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Chat Settings",
+    "controls": [
+      {
+        "type": "ToggleSwitch",
+        "title": "Chat Translation",
+        "description": "Enable automatic chat translation.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='ChatTranslationEnabled']",
+          "dataType": "bool"
+        }
+      },
+      {
+        "type": "ToggleSwitch",
+        "title": "Chat Translation FTUX Shown",
+        "description": "Indicates if the first-time experience tutorial has been shown.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='ChatTranslationFTUXShown']",
+          "dataType": "bool"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Performance & Window",
+    "controls": [
+      {
+        "type": "ToggleSwitch",
+        "title": "Show Performance Stats",
+        "description": "Enable in-game performance statistics overlay.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='PerformanceStatsVisible']",
+          "dataType": "bool"
+        }
+      },
+      {
+        "type": "ToggleSwitch",
+        "title": "Start Maximized",
+        "description": "Start Roblox with a maximized window.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='StartMaximized']",
+          "dataType": "bool"
+        }
+      }
+    ]
+  },
+  {
+    "title": "VR Settings",
+    "controls": [
+      {
+        "type": "ToggleSwitch",
+        "title": "VR Enabled",
+        "description": "Toggle whether to have VR enabled or not.",
+        "value": "",
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/bool[@name='VREnabled']",
+          "dataType": "bool"
+        }
+      },
+      {
+        "type": "ComboBox",
+        "title": "VR Comfort Setting",
+        "description": "Adjust the VR comfort setting.",
+        "value": "",
+        "options": [
+          { "value": "0", "displayName": "None" },
+          { "value": "1", "displayName": "Comfort Level 1" },
+          { "value": "2", "displayName": "Comfort Level 2" },
+          { "value": "3", "displayName": "Comfort Level 3" }
+        ],
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/token[@name='VRComfortSetting']",
+          "dataType": "token"
+        }
+      },
+      {
+        "type": "Slider",
+        "title": "VR Rotation Intensity",
+        "description": "Controls the rotation intensity for VR.",
+        "value": "",
+        "minValue": 0,
+        "maxValue": 5,
+        "step": 1,
+        "gbsConfig": {
+          "xmlPath": "{UserSettings}/int[@name='VRRotationIntensity']",
+          "dataType": "int"
+        }
           },
           {
             "type": "ComboBox",
-            "title": "Preferred Text Size",
-            "description": "Adjust the size of the text. (4-1)",
+            "title": "VR Safety Bubble Mode",
+            "description": "Adjust the VR safety bubble mode.",
             "value": "",
             "options": [
-              { "value": "1", "displayName": "Small" },
+              { "value": "0", "displayName": "Off" },
+              { "value": "1", "displayName": "Low" },
               { "value": "2", "displayName": "Medium" },
-              { "value": "3", "displayName": "Large" },
-              { "value": "4", "displayName": "Extra Large" }
+              { "value": "3", "displayName": "High" }
             ],
             "gbsConfig": {
-              "xmlPath": "{UserSettings}/token[@name='PreferredTextSize']",
+              "xmlPath": "{UserSettings}/token[@name='VRSafetyBubbleMode']",
               "dataType": "token"
             }
-          }
-        ]
-      },
-      {
-        "title": "VR Settings",
-        "controls": [
+          },
           {
             "type": "ToggleSwitch",
-            "title": "VR Enabled",
-            "description": "Toggle whether to have VR enabled or no.",
+            "title": "VR Smooth Rotation Enabled",
+            "description": "Enable smooth rotation for VR.",
             "value": "",
             "gbsConfig": {
-              "xmlPath": "{UserSettings}/bool[@name='VREnabled']",
+              "xmlPath": "{UserSettings}/bool[@name='VRSmoothRotationEnabled']",
+              "dataType": "bool"
+            }
+          },
+          {
+            "type": "ToggleSwitch",
+            "title": "VR Smooth Rotation Custom Option",
+            "description": "Custom option for smooth VR rotation.",
+            "value": "",
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/bool[@name='VRSmoothRotationEnabledCustomOption']",
+              "dataType": "bool"
+            }
+          },
+          {
+            "type": "ToggleSwitch",
+            "title": "VR Third Person Follow Cam Enabled",
+            "description": "Enable third-person follow camera in VR.",
+            "value": "",
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/bool[@name='VRThirdPersonFollowCamEnabled']",
+              "dataType": "bool"
+            }
+          },
+          {
+            "type": "ToggleSwitch",
+            "title": "VR Third Person Follow Cam Custom Option",
+            "description": "Custom option for VR third-person follow cam.",
+            "value": "",
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/bool[@name='VRThirdPersonFollowCamEnabledCustomOption']",
               "dataType": "bool"
             }
           }
