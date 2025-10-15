@@ -232,7 +232,7 @@
               ],
               "dataType": "bool"
             }
-          }
+          },
           {
             "type": "ToggleSwitch",
             "title": "Enable VSync",
