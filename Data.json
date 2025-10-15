@@ -213,10 +213,13 @@
             "description": "Use Roblox Vignette.",
             "value": "",
             "gbsConfig": {
-              "xmlPath": "{UserSettings}/bool[@name='VignetteEnabled']",
+              "xmlPaths": [
+                "{UserSettings}/bool[@name='VignetteEnabled']",
+                "{UserSettings}/bool[@name='VignetteEnabledCustomOption']"
+              ],
               "dataType": "bool"
             }
-          },
+          }
           {
             "type": "ToggleSwitch",
             "title": "VSync Enabled",
@@ -242,6 +245,19 @@
             "step": 0.1,
             "gbsConfig": {
               "xmlPath": "{UserSettings}/float[@name='MasterVolume']",
+              "dataType": "float"
+            }
+          },
+          {
+            "type": "Slider",
+            "title": "Studio Master Volume",
+            "description": "Adjust the global volume. (1.0–0.0)",
+            "value": "",
+            "minValue": 0.0,
+            "maxValue": 1.0,
+            "step": 0.1,
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/float[@name='MasterVolumeStudio']",
               "dataType": "float"
             }
           },
@@ -405,6 +421,16 @@
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/bool[@name='CameraYInverted']",
+              "dataType": "bool"
+            }
+          },
+          {
+            "type": "ToggleSwitch",
+            "title": "VR Enabled",
+            "description": "Toggle whether to have VR enabled or not.",
+            "value": "",
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/bool[@name='VREnabled']",
               "dataType": "bool"
             }
           }
