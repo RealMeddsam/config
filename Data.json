@@ -119,16 +119,6 @@
               ],
               "dataType": "bool"
             }
-          },
-          {
-            "type": "ToggleSwitch",
-            "title": "Enable VSync",
-            "description": "Enable or disable VSync.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/bool[@name='VSyncEnabled']",
-              "dataType": "bool"
-            }
           }
         ]
       },
