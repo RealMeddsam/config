@@ -98,16 +98,6 @@
             }
           },
           {
-            "type": "TextBox",
-            "title": "Graphics Optimization Mode",
-            "description": "Optimization mode for graphics.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/token[@name='GraphicsOptimizationMode']",
-              "dataType": "token"
-            }
-          },
-          {
             "type": "ToggleSwitch",
             "title": "Vignette",
             "description": "Use Roblox Vignette.",
