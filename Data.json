@@ -55,19 +55,6 @@
         "title": "Graphics Settings",
         "controls": [
           {
-            "type": "Slider",
-            "title": "Graphics Quality Level",
-            "description": "Set Roblox graphics quality. (0 = automatic, 1–21 = manual)",
-            "value": "",
-            "minValue": 0,
-            "maxValue": 21,
-            "step": 1,
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/int[@name='SavedQualityLevel']",
-              "dataType": "int"
-            }
-          },
-          {
             "type": "TextBox",
             "title": "Framerate Limit",
             "description": "Set custom fps cap, setting to -1 will reset to default 60 fps cap.",
