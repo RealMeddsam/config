@@ -57,7 +57,7 @@
           {
             "type": "TextBox",
             "title": "Framerate Limit",
-            "description": "Set custom fps cap, setting to -1 will reset to default 60 fps cap.",
+            "description": "Set a custom FPS cap. Use -1 to reset to the default 60 FPS cap",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/int[@name='FramerateCap']",
@@ -77,7 +77,7 @@
           {
             "type": "ToggleSwitch",
             "title": "Max Quality",
-            "description": "This forces MSAA to 4 or 6 according to some people.",
+            "description": "Supposedly sets MSAA to 4 or 6.",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/bool[@name='MaxQualityEnabled']",
@@ -87,7 +87,7 @@
           {
             "type": "ToggleSwitch",
             "title": "Vignette",
-            "description": "Use Roblox Vignette.",
+            "description": "Toggle Roblox vignette.",
             "value": "",
             "gbsConfig": {
               "xmlPaths": [
@@ -105,7 +105,7 @@
           {
             "type": "Slider",
             "title": "Master Volume",
-            "description": "Adjust the global volume. (1.0–0.0)",
+            "description": "Adjust the global volume.",
             "value": "",
             "minValue": 0.0,
             "maxValue": 1.0,
@@ -118,7 +118,7 @@
           {
             "type": "Slider",
             "title": "Studio Master Volume",
-            "description": "Adjust the Roblox Studio global volume. (1.0–0.0)",
+            "description": "Adjust the Roblox Studio global volume.",
             "value": "",
             "minValue": 0.0,
             "maxValue": 1.0,
@@ -131,7 +131,7 @@
           {
             "type": "Slider",
             "title": "Party Voice Volume",
-            "description": "Adjust the party mode volume. (1.0-0.0)",
+            "description": "Adjust the party mode volume.",
             "value": "",
             "minValue": 0.0,
             "maxValue": 1.0,
@@ -162,7 +162,7 @@
           {
             "type": "Vector2",
             "title": "First Person Mouse Sensitivity",
-            "description": "Adjusts the X/Y sensitivity when in first person mode.",
+            "description": "Adjusts the X/Y sensitivity in first person mode.",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityFirstPerson']",
@@ -172,7 +172,7 @@
           {
             "type": "Vector2",
             "title": "Third Person Mouse Sensitivity",
-            "description": "Adjusts the X/Y sensitivity when in third person mode.",
+            "description": "Adjusts the X/Y sensitivity in third person mode.",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/Vector2[@name='MouseSensitivityThirdPerson']",
@@ -180,9 +180,19 @@
             }
           },
           {
+            "type": "ToggleSwitch",
+            "title": "Invert Camera Y",
+            "description": "Invert the Y axis for camera control.",
+            "value": "",
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/bool[@name='CameraYInverted']",
+              "dataType": "bool"
+            }
+          },
+          {
             "type": "Slider",
             "title": "Haptic Strength",
-            "description": "Controls the strength of haptic mode.",
+            "description": "Adjust the strength of haptic feedback.",
             "value": "",
             "minValue": 0.0,
             "maxValue": 1.0,
@@ -200,7 +210,7 @@
           {
             "type": "Slider",
             "title": "UI Transparency",
-            "description": "Adjust the transparency of Roblox UI with 1 being semi-transparent and 0 being opaque.",
+            "description": "Adjust the transparency of the Roblox UI. A value of 1 makes it semi-transparent, while 0 makes it fully opaque.",
             "value": "",
             "minValue": 0.0,
             "maxValue": 1.0,
@@ -223,7 +233,7 @@
           {
             "type": "ComboBox",
             "title": "Preferred Text Size",
-            "description": "Adjust the size of the text. (4-1)",
+            "description": "Adjust the size of the text.",
             "value": "",
             "options": [
               { "value": "1", "displayName": "Small" },
@@ -239,25 +249,15 @@
         ]
       },
       {
-        "title": "Roblox Settings",
+        "title": "Miscellaneous Settings",
         "controls": [
           {
             "type": "ToggleSwitch",
             "title": "Show Performance Stats",
-            "description": "Enable in-game performance statistics overlay.",
+            "description": "Enable the in-game performance statistics overlay.",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/bool[@name='PerformanceStatsVisible']",
-              "dataType": "bool"
-            }
-          },
-          {
-            "type": "ToggleSwitch",
-            "title": "Start Maximized",
-            "description": "Start Roblox with a maximized window.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/bool[@name='StartMaximized']",
               "dataType": "bool"
             }
           },
@@ -274,7 +274,7 @@
           {
             "type": "ToggleSwitch",
             "title": "Chat Translation FTUX Shown",
-            "description": "Indicates if the first-time experience tutorial has been shown.",
+            "description": "Indicates if the First-Time Experience Tutorial has been shown.",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/bool[@name='ChatTranslationFTUXShown']",
@@ -283,18 +283,8 @@
           },
           {
             "type": "ToggleSwitch",
-            "title": "Invert Camera Y",
-            "description": "Invert the Y axis for camera control.",
-            "value": "",
-            "gbsConfig": {
-              "xmlPath": "{UserSettings}/bool[@name='CameraYInverted']",
-              "dataType": "bool"
-            }
-          },
-          {
-            "type": "ToggleSwitch",
             "title": "VR Enabled",
-            "description": "Toggle whether to have VR enabled or not.",
+            "description": "Toggle VR mode on or off",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/bool[@name='VREnabled']",
