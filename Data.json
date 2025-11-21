@@ -65,6 +65,19 @@
             }
           },
           {
+            "type": "Slider",
+            "title": "Start Quality",
+            "description": "Adjust how many bars of quality to have on game join.",
+            "value": "",
+            "minValue": 0.0,
+            "maxValue": 10.0,
+            "step": 1,
+            "gbsConfig": {
+              "xmlPath": "{UserSettings}/token[@name='SavedQualityLevel']",
+              "dataType": "token"
+            }
+          },
+          {
             "type": "ToggleSwitch",
             "title": "Fullscreen",
             "description": "Start Roblox in fullscreen mode.",
