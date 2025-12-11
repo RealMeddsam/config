@@ -550,5 +550,23 @@
     "extracontent.controls.designsystem.buttonx.png": [ "ExtraContent", "textures", "ui", "Controls", "DesignSystem", "ButtonX.png" ],
     "extracontent.controls.designsystem.buttonx@2x.png": [ "ExtraContent", "textures", "ui", "Controls", "DesignSystem", "ButtonX@2x.png" ],
     "extracontent.controls.designsystem.buttonx@3x.png": [ "ExtraContent", "textures", "ui", "Controls", "DesignSystem", "ButtonX@3x.png" ]
-  }
+  },
+  "communityMods": [
+    {
+      "id": "froststrap",
+      "name": "Froststrap test",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Froststrap.rar",
+      "description": "blue",
+      "author": "meddsam te",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Preview/Logo.png"
+    },
+    {
+      "id": "kliko",
+      "name": "kliko test ",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Kliko%20Mod.rar",
+      "description": "red-pink color",
+      "author": "kliko",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Preview/cat-vibin.png"
+    }
+  ]
 }
