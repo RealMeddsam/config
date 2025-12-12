@@ -583,6 +583,14 @@
       "hexcode": "#6F6AFE",
       "author": "polover",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Lunastrap.png"
+    },
+    {
+      "id": "network-red",
+      "name": "Network Red",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Network-Red.zip",
+      "hexcode": "#A90E0E",
+      "author": "Netsoftworks",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Network-Red.png"
     }
   ]
 }
