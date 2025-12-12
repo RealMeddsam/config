@@ -605,15 +605,6 @@
       "author": "TheKliko",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Old-Login-Screen.png",
       "modtype": 0
-    },
-    {
-      "id": "rainworld",
-      "name": "Rainworld",
-      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Rainworld.zip",
-      "hexcode": null,
-      "author": "idk",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Rainworld.png",
-      "modtype": 2
     }
   ]
 }
