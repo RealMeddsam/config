@@ -575,6 +575,14 @@
       "hexcode": "#1B699C",
       "author": "Kliko",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Fishstrap.png"
+    },
+    {
+      "id": "lunastrap",
+      "name": "Lunastrap",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Lunastrap.zip",
+      "hexcode": "#6F6AFE",
+      "author": "polover",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Lunastrap.png"
     }
   ]
 }
