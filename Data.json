@@ -556,7 +556,7 @@
       "id": "froststrap",
       "name": "Froststrap test",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Froststrap.zip",
-      "description": "blue",
+      "hexcode": "#00187",
       "author": "meddsam te",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Preview/Logo.png"
     },
@@ -564,7 +564,7 @@
       "id": "kliko",
       "name": "kliko test ",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Kliko%20Mod.zip",
-      "description": "red-pink color",
+      "hexcode": "#679669",
       "author": "kliko",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Preview/cat-vibin.png"
     }
