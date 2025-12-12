@@ -558,39 +558,62 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Froststrap.zip",
       "hexcode": "#27A0F3",
       "author": "meddsam",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Froststrap.png"
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Froststrap.png",
+      "modtype": 1
     },
     {
       "id": "kliko",
-      "name": "Kliko",
+      "name": "Kliko's Mod",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Kliko.zip",
       "hexcode": "#C70037",
-      "author": "Kliko",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Klikos.png"
+      "author": "TheKliko",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Klikos.png",
+      "modtype": 1
     },
     {
       "id": "fishstrap",
-      "name": "Fishstrap",
+      "name": "Fishstrap Theme",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Fishstrap.zip",
       "hexcode": "#1B699C",
-      "author": "Kliko",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Fishstrap.png"
+      "author": "TheKliko",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Fishstrap.png",
+      "modtype": 1
     },
     {
       "id": "lunastrap",
-      "name": "Lunastrap",
+      "name": "Lunastrap Theme",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Lunastrap.zip",
       "hexcode": "#6F6AFE",
       "author": "polover",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Lunastrap.png"
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Lunastrap.png",
+      "modtype": 1
     },
     {
       "id": "network-red",
-      "name": "Network Red",
+      "name": "Network's Red Theme",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Network-Red.zip",
       "hexcode": "#A90E0E",
       "author": "Netsoftworks",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Network-Red.png"
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Network-Red.png",
+      "modtype": 1
+    },
+    {
+      "id": "old-login-screen",
+      "name": "Old Login Screen",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Old-Login-Screen.zip",
+      "hexcode": null,
+      "author": "TheKliko",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Old-Login-Screen.png",
+      "modtype": 0
+    },
+    {
+      "id": "rainworld",
+      "name": "Rainworld",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Rainworld.zip",
+      "hexcode": null,
+      "author": "idk",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Rainworld.png",
+      "modtype": 2
     }
   ]
 }
