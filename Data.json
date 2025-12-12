@@ -559,6 +559,22 @@
       "hexcode": "#27A0F3",
       "author": "meddsam",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Froststrap.png"
-    }
+    },
+    {
+      "id": "kliko",
+      "name": "Kliko",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Kliko.zip",
+      "hexcode": "#C70037",
+      "author": "Kliko",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Klikos.png"
+    },
+    {
+      "id": "fishstrap",
+      "name": "Fishstrap",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Fishstrap.zip",
+      "hexcode": "#1B699C",
+      "author": "Kliko",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Fishstrap.png"
+    },
   ]
 }
