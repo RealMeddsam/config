@@ -554,19 +554,11 @@
   "communityMods": [
     {
       "id": "froststrap",
-      "name": "Froststrap test",
+      "name": "Froststrap",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Froststrap.zip",
-      "hexcode": "#00187",
-      "author": "meddsam te",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Preview/Logo.png"
-    },
-    {
-      "id": "kliko",
-      "name": "kliko test ",
-      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Kliko%20Mod.zip",
-      "hexcode": "#679669",
-      "author": "kliko",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Preview/cat-vibin.png"
+      "hexcode": "#27A0F3",
+      "author": "meddsam",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Froststrap.png"
     }
   ]
 }
