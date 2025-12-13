@@ -605,6 +605,33 @@
       "author": "TheKliko",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Old-Login-Screen.png",
       "modtype": 0
+    },
+    {
+      "id": "mojang",
+      "name": "Animated Mojang",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Mojang.zip",
+      "hexcode": null,
+      "author": "SquireDot",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Mojang.png",
+      "modtype": 2
+    },
+    {
+      "id": "windows-11",
+      "name": "Windows 11",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Windows-11.zip",
+      "hexcode": null,
+      "author": "SquireDot",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Windows-11.png",
+      "modtype": 2
+    },
+    {
+      "id": "operagx-installer",
+      "name": "OperaGX Installer",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/OperaGX-Installer.zip",
+      "hexcode": null,
+      "author": "SquireDot",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/OperaGX-Installer.png",
+      "modtype": 2
     }
   ]
 }
