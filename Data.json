@@ -598,6 +598,15 @@
       "modtype": 1
     },
     {
+      "id": "darktextures",
+      "name": "Dark Textures",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/DarkTextures.zip",
+      "hexcode": null,
+      "author": "Unknown",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/DarkTextures.png",
+      "modtype": 0
+    },
+    {
       "id": "old-login-screen",
       "name": "Old Login Screen",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Old-Login-Screen.zip",
