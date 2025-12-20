@@ -634,6 +634,69 @@
       "modtype": 2
     },
     {
+      "id": "rovalra",
+      "name": "RoValra",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/RoValra.zip",
+      "hexcode": null,
+      "author": "NetSoftworks",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/RoValra.png",
+      "modtype": 2
+    },
+    {
+      "id": "winrar",
+      "name": "Winrar",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/WinRAR.zip",
+      "hexcode": null,
+      "author": "NetSoftworks",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/WinRAR.png",
+      "modtype": 2
+    },
+    {
+      "id": "red-dead-redemption",
+      "name": "Red Dead Redemption",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Red-Dead-Redemption.zip",
+      "hexcode": null,
+      "author": "NetSoftworks",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Red-Dead-Redemption.png",
+      "modtype": 2
+    },
+    {
+      "id": "2017-2022",
+      "name": "2017-2022 Screen",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/2017-2022.zip",
+      "hexcode": null,
+      "author": "NetSoftworks",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/2017-2022.png",
+      "modtype": 2
+    },
+    {
+      "id": "2015-2017",
+      "name": "2015-2017 Screen",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/2015-2017.zip",
+      "hexcode": null,
+      "author": "NetSoftworks",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/2015-2017.png",
+      "modtype": 2
+    },
+    {
+      "id": "commandpromptdark",
+      "name": "Command Prompt Dark",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/CommandPromptDark.zip",
+      "hexcode": null,
+      "author": "NetSoftworks",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/CommandPromptDark.png",
+      "modtype": 2
+    },
+    {
+      "id": "commandpromptlight",
+      "name": "Command Prompt Light",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/CommandPromptLight.zip",
+      "hexcode": null,
+      "author": "NetSoftworks",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/CommandPromptLight.png",
+      "modtype": 2
+    },
+    {
       "id": "operagx-installer",
       "name": "OperaGX Installer",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/OperaGX-Installer.zip",
