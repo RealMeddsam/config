@@ -632,6 +632,69 @@
       "author": "SquireDot",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/OperaGX-Installer.png",
       "modtype": 2
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Aurora.zip",
+      "hexcode": null,
+      "author": "Unknown",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Aurora.png",
+      "modtype": 0
+    },
+    {
+      "id": "beautiful",
+      "name": "Beautiful",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Beautiful.zip",
+      "hexcode": null,
+      "author": "Unknown",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Beautiful.jpg",
+      "modtype": 0
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Blue.zip",
+      "hexcode": null,
+      "author": "Unknown",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Blue.png",
+      "modtype": 0
+    },
+    {
+      "id": "chill-gray",
+      "name": "Chill Gray",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Chill-gray.zip",
+      "hexcode": null,
+      "author": "Unknown",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Chill-gray.png",
+      "modtype": 0
+    },
+    {
+      "id": "chill-pink",
+      "name": "Chill Pink",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Chill-pink.zip",
+      "hexcode": null,
+      "author": "Unknown",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Chill-pink.png",
+      "modtype": 0
+    },
+    {
+      "id": "saturn",
+      "name": "Saturn",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Saturn.zip",
+      "hexcode": null,
+      "author": "Unknown",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Saturn.png",
+      "modtype": 0
     }
+    {
+      "id": "light-blue",
+      "name": "Light Blue",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Light-Blue.zip",
+      "hexcode": null,
+      "author": "Unknown",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Light-Blue.png",
+      "modtype": 0
+    },
   ]
 }
