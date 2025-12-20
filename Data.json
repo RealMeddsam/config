@@ -686,7 +686,7 @@
       "author": "Unknown",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Saturn.png",
       "modtype": 0
-    }
+    },
     {
       "id": "light-blue",
       "name": "Light Blue",
@@ -695,6 +695,6 @@
       "author": "Unknown",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Light-Blue.png",
       "modtype": 0
-    },
+    }
   ]
 }
