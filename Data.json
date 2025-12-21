@@ -607,6 +607,15 @@
       "modtype": 0
     },
     {
+      "id": "snowy",
+      "name": "Snowy",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Snowy.zip",
+      "hexcode": null,
+      "author": "meddsam",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Snowy.png",
+      "modtype": 4
+    },
+    {
       "id": "old-login-screen",
       "name": "Old Login Screen",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Old-Login-Screen.zip",
