@@ -622,7 +622,7 @@
       "hexcode": null,
       "author": "SquireDot",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Mojang.png",
-      "modtype": 2
+      "modtype": 5
     },
     {
       "id": "windows-11",
@@ -631,7 +631,7 @@
       "hexcode": null,
       "author": "SquireDot",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Windows-11.png",
-      "modtype": 2
+      "modtype": 5
     },
     {
       "id": "rovalra",
@@ -640,16 +640,7 @@
       "hexcode": null,
       "author": "NetSoftworks",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/RoValra.png",
-      "modtype": 2
-    },
-    {
-      "id": "winrar",
-      "name": "Winrar",
-      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/WinRAR.zip",
-      "hexcode": null,
-      "author": "NetSoftworks",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/WinRAR.png",
-      "modtype": 2
+      "modtype": 5
     },
     {
       "id": "red-dead-redemption",
@@ -658,7 +649,7 @@
       "hexcode": null,
       "author": "NetSoftworks",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Red-Dead-Redemption.png",
-      "modtype": 2
+      "modtype": 5
     },
     {
       "id": "2017-2022",
@@ -667,7 +658,7 @@
       "hexcode": null,
       "author": "NetSoftworks",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/2017-2022.png",
-      "modtype": 2
+      "modtype": 5
     },
     {
       "id": "2015-2017",
@@ -676,7 +667,16 @@
       "hexcode": null,
       "author": "NetSoftworks",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/2015-2017.png",
-      "modtype": 2
+      "modtype": 5
+    },
+    {
+      "id": "winrar",
+      "name": "Winrar",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/WinRAR.zip",
+      "hexcode": null,
+      "author": "NetSoftworks",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/WinRAR.png",
+      "modtype": 5
     },
     {
       "id": "commandpromptdark",
@@ -685,7 +685,7 @@
       "hexcode": null,
       "author": "NetSoftworks",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/CommandPromptDark.png",
-      "modtype": 2
+      "modtype": 5
     },
     {
       "id": "commandpromptlight",
@@ -694,7 +694,7 @@
       "hexcode": null,
       "author": "NetSoftworks",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/CommandPromptLight.png",
-      "modtype": 2
+      "modtype": 5
     },
     {
       "id": "operagx-installer",
@@ -703,7 +703,7 @@
       "hexcode": null,
       "author": "SquireDot",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/OperaGX-Installer.png",
-      "modtype": 2
+      "modtype": 5
     },
     {
       "id": "aurora",
@@ -712,7 +712,7 @@
       "hexcode": null,
       "author": "Unknown",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Aurora.png",
-      "modtype": 0
+      "modtype": 2
     },
     {
       "id": "beautiful",
@@ -721,7 +721,7 @@
       "hexcode": null,
       "author": "Unknown",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Beautiful.jpg",
-      "modtype": 0
+      "modtype": 2
     },
     {
       "id": "blue",
@@ -730,7 +730,7 @@
       "hexcode": null,
       "author": "Unknown",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Blue.png",
-      "modtype": 0
+      "modtype": 2
     },
     {
       "id": "chill-gray",
@@ -739,7 +739,7 @@
       "hexcode": null,
       "author": "Unknown",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Chill-gray.png",
-      "modtype": 0
+      "modtype": 2
     },
     {
       "id": "chill-pink",
@@ -748,7 +748,7 @@
       "hexcode": null,
       "author": "Unknown",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Chill-pink.png",
-      "modtype": 0
+      "modtype": 2
     },
     {
       "id": "saturn",
@@ -757,7 +757,7 @@
       "hexcode": null,
       "author": "Unknown",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Saturn.png",
-      "modtype": 0
+      "modtype": 2
     },
     {
       "id": "light-blue",
@@ -766,7 +766,7 @@
       "hexcode": null,
       "author": "Unknown",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Light-Blue.png",
-      "modtype": 0
+      "modtype": 2
     }
   ]
 }
