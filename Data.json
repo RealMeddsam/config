@@ -607,15 +607,6 @@
       "modtype": 0
     },
     {
-      "id": "higherqualitystud",
-      "name": "Higher Quality Stud",
-      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/HigherQualityStud.zip",
-      "hexcode": null,
-      "author": "WinterRidozi",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/HigherQualityStud.png",
-      "modtype": 0
-    },
-    {
       "id": "highqualitystud",
       "name": "High Quality Stud",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/HighQualityStud.zip",
