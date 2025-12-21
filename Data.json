@@ -616,15 +616,6 @@
       "modtype": 0
     },
     {
-      "id": "lowqualitystud",
-      "name": "Low Quality Stud",
-      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/LowQualityStud.zip",
-      "hexcode": null,
-      "author": "WinterRidozi",
-      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/LowQualityStud.png",
-      "modtype": 0
-    },
-    {
       "id": "snowy",
       "name": "Snowy",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Snowy.zip",
