@@ -661,6 +661,15 @@
       "modtype": 5
     },
     {
+      "id": "stareyemountain",
+      "name": "Stareye Mountain",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/StarEyeMountain.zip",
+      "hexcode": null,
+      "author": "Borede",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/StarEyeMountain.png",
+      "modtype": 5
+    },
+    {
       "id": "windows-11",
       "name": "Windows 11",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Windows-11.zip",
