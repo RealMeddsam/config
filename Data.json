@@ -616,6 +616,15 @@
       "modtype": 0
     },
     {
+      "id": "smoothstudtexture",
+      "name": "Smooth Stud Texture",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/SmoothStudTexture.zip",
+      "hexcode": null,
+      "author": "meddsam",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/SmoothStudTexture.png",
+      "modtype": 0
+    },
+    {
       "id": "betterbrightness",
       "name": "Better Brightness",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/BetterBrightness.zip",
