@@ -616,6 +616,15 @@
       "modtype": 0
     },
     {
+      "id": "betterbrightness",
+      "name": "Better Brightness",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/BetterBrightness.zip",
+      "hexcode": null,
+      "author": "meddsam",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/BetterBrightness.png",
+      "modtype": 0
+    },
+    {
       "id": "snowy",
       "name": "Snowy",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Snowy.zip",
