@@ -164,10 +164,6 @@
             "type": "TextBox",
             "title": "Camera Sensitivity",
             "description": "Set the camera sensitivity amount.",
-            "value": "",
-            "minValue": 0.1,
-            "maxValue": 5.0,
-            "step": 0.1,
             "gbsConfig": {
               "xmlPath": "{UserSettings}/float[@name='GamepadCameraSensitivity']",
               "dataType": "float"
@@ -222,13 +218,9 @@
         "title": "Accessibility",
         "controls": [
           {
-            "type": "Slider",
+            "type": "TextBox",
             "title": "UI Transparency",
             "description": "Adjust the transparency of the Roblox UI. A value of 1 makes it semi-transparent, while 0 makes it fully opaque.",
-            "value": "",
-            "minValue": 0.0,
-            "maxValue": 1.0,
-            "step": 0.1,
             "gbsConfig": {
               "xmlPath": "{UserSettings}/float[@name='PreferredTransparency']",
               "dataType": "float"
