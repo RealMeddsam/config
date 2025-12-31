@@ -625,6 +625,15 @@
       "modtype": 0
     },
     {
+      "id": "catavatareditor",
+      "name": "Cat Avatar Editor",
+      "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/CatAvatarEditor.zip",
+      "hexcode": null,
+      "author": "Flemish",
+      "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/CatAvatarEditor.png",
+      "modtype": 4
+    },
+    {
       "id": "snowy",
       "name": "Snowy",
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Snowy.zip",
