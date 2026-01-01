@@ -57,7 +57,7 @@
           {
             "type": "TextBox",
             "title": "Framerate Limit",
-            "description": "Set a custom FPS cap. Use -1 to reset to the default 60 FPS cap",
+            "description": "Set a custom FPS cap. Use -1 to reset to the default 60 FPS cap.",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/int[@name='FramerateCap']",
@@ -289,7 +289,7 @@
           {
             "type": "ToggleSwitch",
             "title": "VR Enabled",
-            "description": "Toggle VR mode on or off",
+            "description": "Toggle VR mode on or off.",
             "value": "",
             "gbsConfig": {
               "xmlPath": "{UserSettings}/bool[@name='VREnabled']",
