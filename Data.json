@@ -466,6 +466,10 @@
     "ui.settings.slider.right.png": [ "content", "textures", "ui", "Settings", "Slider", "Right.png" ],
     "ui.settings.slider.left@2x.png": [ "content", "textures", "ui", "Settings", "Slider", "Left@2x.png" ],
 
+    "ui.networkpause.no connection.png": [ "content", "textures", "ui", "NetworkPause", "no connection.png" ],
+    "ui.networkpause.no connection@2x.png": [ "content", "textures", "ui", "NetworkPause", "no connection@2x.png" ],
+    "ui.networkpause.no connection@3x.png": [ "content", "textures", "ui", "NetworkPause", "no connection@3x.png" ],
+
     "ui.topbar.leaderboardon@3x.png": [ "content", "textures", "ui", "TopBar", "leaderboardOn@3x.png" ],
     "ui.topbar.moreoff.png": [ "content", "textures", "ui", "TopBar", "moreOff.png" ],
     "ui.topbar.moreoff@2x.png": [ "content", "textures", "ui", "TopBar", "moreOff@2x.png" ],
@@ -488,6 +492,7 @@
     "ui.topbar.emoteson.png": [ "content", "textures", "ui", "TopBar", "emotesOn.png" ],
     "ui.topbar.emoteson@2x.png": [ "content", "textures", "ui", "TopBar", "emotesOn@2x.png" ],
     "ui.topbar.emoteson@3x.png": [ "content", "textures", "ui", "TopBar", "emotesOn@3x.png" ],
+    "ui.topbar.inventoryoff.png": [ "content", "textures", "ui", "TopBar", "inventoryOff.png" ].
     "ui.topbar.inventoryoff@2x.png": [ "content", "textures", "ui", "TopBar", "inventoryOff@2x.png" ],
     "ui.topbar.inventoryoff@3x.png": [ "content", "textures", "ui", "TopBar", "inventoryOff@3x.png" ],
     "ui.topbar.inventoryon.png": [ "content", "textures", "ui", "TopBar", "inventoryOn.png" ],
