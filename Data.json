@@ -492,7 +492,7 @@
     "ui.topbar.emoteson.png": [ "content", "textures", "ui", "TopBar", "emotesOn.png" ],
     "ui.topbar.emoteson@2x.png": [ "content", "textures", "ui", "TopBar", "emotesOn@2x.png" ],
     "ui.topbar.emoteson@3x.png": [ "content", "textures", "ui", "TopBar", "emotesOn@3x.png" ],
-    "ui.topbar.inventoryoff.png": [ "content", "textures", "ui", "TopBar", "inventoryOff.png" ].
+    "ui.topbar.inventoryoff.png": [ "content", "textures", "ui", "TopBar", "inventoryOff.png" ],
     "ui.topbar.inventoryoff@2x.png": [ "content", "textures", "ui", "TopBar", "inventoryOff@2x.png" ],
     "ui.topbar.inventoryoff@3x.png": [ "content", "textures", "ui", "TopBar", "inventoryOff@3x.png" ],
     "ui.topbar.inventoryon.png": [ "content", "textures", "ui", "TopBar", "inventoryOn.png" ],
