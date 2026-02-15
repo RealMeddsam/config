@@ -164,7 +164,7 @@
             "title": "Camera Sensitivity",
             "description": "Set the camera sensitivity amount.",
             "gbsConfig": {
-              "xmlPath": "{UserSettings}/float[@name='GamepadCameraSensitivity']",
+              "xmlPath": "{UserSettings}/float[@name='MouseSensitivity']",
               "dataType": "float"
             }
           },
