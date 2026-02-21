@@ -555,6 +555,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Froststrap.zip",
       "hexcode": "#27A0F3",
       "author": "meddsam",
+      "description": "Changes the large majority of Roblox Icons color to the selected hex code, preview under Glyph Preview how it looks like.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Froststrap.png",
       "modtype": 1
     },
@@ -564,6 +565,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Kliko.zip",
       "hexcode": "#C70037",
       "author": "TheKliko",
+      "description": "Changes the large majority of Roblox Icons color to the selected hex code, preview under Glyph Preview how it looks like.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Klikos.png",
       "modtype": 1
     },
@@ -573,6 +575,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Fishstrap.zip",
       "hexcode": "#1B699C",
       "author": "TheKliko",
+      "description": "Changes the large majority of Roblox Icons color to the selected hex code, preview under Glyph Preview how it looks like.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Fishstrap.png",
       "modtype": 1
     },
@@ -582,6 +585,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Lunastrap.zip",
       "hexcode": "#6F6AFE",
       "author": "polover",
+      "description": "Changes the large majority of Roblox Icons color to the selected hex code, preview under Glyph Preview how it looks like.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Lunastrap.png",
       "modtype": 1
     },
@@ -591,6 +595,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Network-Red.zip",
       "hexcode": "#A90E0E",
       "author": "NetSoftworks",
+      "description": "Changes the large majority of Roblox Icons color to the selected hex code, preview under Glyph Preview how it looks like.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Network-Red.png",
       "modtype": 1
     },
@@ -600,6 +605,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/DarkTextures.zip",
       "hexcode": null,
       "author": "Unknown",
+      "description": "This mod requires your graphic level to be 6 or higher, note that frm flag caps your graphic level so remove it or increase it.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/DarkTextures.png",
       "modtype": 0
     },
@@ -609,6 +615,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/HighQualityStud.zip",
       "hexcode": null,
       "author": "WinterRidozi",
+      "description": "Makes the stud texture high quality on low graphic level.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/HighQualityStud.png",
       "modtype": 0
     },
@@ -618,6 +625,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/SmoothStudTexture.zip",
       "hexcode": null,
       "author": "meddsam",
+      "description": "Removes the stud texture making it smooth.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/SmoothStudTexture.png",
       "modtype": 0
     },
@@ -627,6 +635,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/BetterBrightness.zip",
       "hexcode": null,
       "author": "meddsam",
+      "description": "This mod requires your graphic level to be 6 or higher, note that frm flag caps your graphic level so remove it or increase it.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/BetterBrightness.png",
       "modtype": 0
     },
@@ -636,6 +645,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/CatAvatarEditor.zip",
       "hexcode": null,
       "author": "Levent",
+      "description": "Changes the desktop app Avatar Editor into a bunch of cats lol.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/CatAvatarEditor.png",
       "modtype": 4
     },
@@ -645,6 +655,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Snowy.zip",
       "hexcode": null,
       "author": "meddsam",
+      "description": "Changes the desktop app Avatar Editor into a snowy place.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Snowy.png",
       "modtype": 4
     },
@@ -654,6 +665,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Old-Login-Screen.zip",
       "hexcode": null,
       "author": "TheKliko",
+      "description": "Changes the desktop app Login screen into the old one.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Old-Login-Screen.png",
       "modtype": 0
     },
@@ -663,6 +675,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Mojang.zip",
       "hexcode": null,
       "author": "SquireDot",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Mojang.png",
       "modtype": 5
     },
@@ -672,6 +685,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/StarryMountain.zip",
       "hexcode": null,
       "author": "Borede",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/StarryMountain.png",
       "modtype": 5
     },
@@ -681,6 +695,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Windows-11.zip",
       "hexcode": null,
       "author": "SquireDot",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Windows-11.png",
       "modtype": 5
     },
@@ -690,6 +705,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/RoValra.zip",
       "hexcode": null,
       "author": "NetSoftworks",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/RoValra.png",
       "modtype": 5
     },
@@ -699,6 +715,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Red-Dead-Redemption.zip",
       "hexcode": null,
       "author": "NetSoftworks",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Red-Dead-Redemption.png",
       "modtype": 5
     },
@@ -708,6 +725,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/2017-2022.zip",
       "hexcode": null,
       "author": "NetSoftworks",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/2017-2022.png",
       "modtype": 5
     },
@@ -717,6 +735,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/2015-2017.zip",
       "hexcode": null,
       "author": "NetSoftworks",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/2015-2017.png",
       "modtype": 5
     },
@@ -726,6 +745,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/WinRAR.zip",
       "hexcode": null,
       "author": "NetSoftworks",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/WinRAR.png",
       "modtype": 5
     },
@@ -735,6 +755,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/CommandPromptDark.zip",
       "hexcode": null,
       "author": "NetSoftworks",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/CommandPromptDark.png",
       "modtype": 5
     },
@@ -744,6 +765,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/CommandPromptLight.zip",
       "hexcode": null,
       "author": "NetSoftworks",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/CommandPromptLight.png",
       "modtype": 5
     },
@@ -753,6 +775,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/OperaGX-Installer.zip",
       "hexcode": null,
       "author": "SquireDot",
+      "description": "Custom Bootstrapper style, this can be changed in Appearance then set launcher style to Custom, might require app restart.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/OperaGX-Installer.png",
       "modtype": 5
     },
@@ -762,6 +785,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Aurora.zip",
       "hexcode": null,
       "author": "Unknown",
+      "description": "Changes how the sky looks like to this, will not work if a game has a custom skybox.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Aurora.png",
       "modtype": 2
     },
@@ -771,6 +795,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Beautiful.zip",
       "hexcode": null,
       "author": "Unknown",
+      "description": "Changes how the sky looks like to this, will not work if a game has a custom skybox.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Beautiful.jpg",
       "modtype": 2
     },
@@ -780,6 +805,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Blue.zip",
       "hexcode": null,
       "author": "Unknown",
+      "description": "Changes how the sky looks like to this, will not work if a game has a custom skybox.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Blue.png",
       "modtype": 2
     },
@@ -789,6 +815,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Chill-gray.zip",
       "hexcode": null,
       "author": "Unknown",
+      "description": "Changes how the sky looks like to this, will not work if a game has a custom skybox.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Chill-gray.png",
       "modtype": 2
     },
@@ -798,6 +825,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Chill-pink.zip",
       "hexcode": null,
       "author": "Unknown",
+      "description": "Changes how the sky looks like to this, will not work if a game has a custom skybox.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Chill-pink.png",
       "modtype": 2
     },
@@ -807,6 +835,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Saturn.zip",
       "hexcode": null,
       "author": "Unknown",
+      "description": "Changes how the sky looks like to this, will not work if a game has a custom skybox.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Saturn.png",
       "modtype": 2
     },
@@ -816,6 +845,7 @@
       "download": "https://raw.githubusercontent.com/RealMeddsam/config/main/Download/Light-Blue.zip",
       "hexcode": null,
       "author": "Unknown",
+      "description": "Changes how the sky looks like to this, will not work if a game has a custom skybox.",
       "thumbnail": "https://raw.githubusercontent.com/RealMeddsam/config/main/Thumbnails/Light-Blue.png",
       "modtype": 2
     }
