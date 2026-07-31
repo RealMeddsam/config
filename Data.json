@@ -3,7 +3,6 @@
     "alertContent": "",
     "alertSeverity": 0,
     "bannedVersionHashes": [
-        "version-145f189a6a974303",
         "version-36a2600cebf1487d",
         "version-9affbe66b2624d20",
         "version-ed2b47b81f08484a"
