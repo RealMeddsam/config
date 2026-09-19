@@ -1,6 +1,6 @@
 {
     "alertEnabled": true,
-    "alertContent": "2.0 update releasing September 19 10:30 UTC!!!",
+    "alertContent": "2.0.0 update officially out, hope you guys enjoy.",
     "alertSeverity": 0,
     "bannedVersionHashes": [
         "version-36a2600cebf1487d",
