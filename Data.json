@@ -1,6 +1,6 @@
 {
     "alertEnabled": true,
-    "alertContent": "2.0.0 update officially out, hope you guys enjoy.",
+    "alertContent": "2.0.0 update officially out, hope you guys enjoy, If your on 1.5.0 or test versions, you need to update manually.",
     "alertSeverity": 0,
     "bannedVersionHashes": [
         "version-36a2600cebf1487d",
